@@ -1,6 +1,6 @@
 ![Logo](/Logo_Kautenburger-IT.png)
 
-## Sei dabei
+----
 
 Aus dem leidenschaftlichen Interesse an Informations- und Kommunikations-Technologie entstand 2008 die Firma Kautenburger IT.
 Unser Ingenieur-Büro mit seinen Mitarbeitern findet Lösungen für alle iT-Bereiche seiner Kunden.
